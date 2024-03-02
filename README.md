@@ -10,6 +10,7 @@ Eager to fully embrace my role in QA, I am actively enhancing my knowledge in au
 <a href="https://www.linkedin.com/in/tegar-muhammad-soekarno-202252183/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a/>
+
 💻 **Tech Stack** <br/><br/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
