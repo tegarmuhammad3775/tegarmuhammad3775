@@ -5,12 +5,12 @@ My journey in the tech industry began as a software engineer, where I was deeply
 
 Eager to fully embrace my role in QA, I am actively enhancing my knowledge in automated testing tools, QA methodologies, certifications, etc. My goal is to bridge my software engineering expertise with new QA skills to contribute effectively to quality assurance processes and ultimately enhance product quality.
 
-🌐 **Socials** <br/><br/>
+**Socials** 🌐  <br/><br/>
 <a href="https://www.linkedin.com/in/tegar-muhammad-soekarno-202252183/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a/>
 
-💻 **Tech Stack** <br/><br/>
+**Tech Stack** 💻 <br/><br/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
@@ -26,7 +26,7 @@ Eager to fully embrace my role in QA, I am actively enhancing my knowledge in au
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 
 
-✍ **Random Dev Quote** <br/><br/>
+**Random Dev Quote** ✍ <br/><br/>
 <img src="https://minimalistquotes.com/posterimages/quality-is-not-an-act-it-is-a-habit-2.jpg" style="width:500px;"/>
 
 <!--
