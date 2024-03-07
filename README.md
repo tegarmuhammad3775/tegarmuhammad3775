@@ -1,5 +1,4 @@
-🌳 **About Me**
-<br/><br/>
+# About Me 🌳 
 Hello! I’m Tegar Muhammad Soekarno, a software engineer turned Quality Assurance (QA) enthusiast with a rich background in software development and a newfound passion for driving software excellence through meticulous testing and quality control. With 4 years of experience in software engineering, I bring a developer’s perspective to the QA field, understanding the intricacies of software creation and the critical importance of delivering error-free, user-centric products.
 
 My journey in the tech industry began as a software engineer, where I was deeply involved in designing, coding, and implementing software solutions. Over time, my interest gradually shifted towards the quality aspects of software development. I found myself more intrigued by the challenge of not just creating software but ensuring it meets the highest standards of quality and reliability.
